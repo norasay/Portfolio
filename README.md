@@ -15,7 +15,7 @@ Hello there! I'm Nora Say, currently in my second year of Engineering in Informa
 ## Projects
 Here's a glimpse of some of the projects I've developed:
 
-## Flappy Square 
+# Flappy Square 
 **Description:** A fun and engaging remake of the popular Flappy Bird game.
 **Tech Stack:** [C, ChipKIT Uno32, ChipKIT Basic I/O]
 
