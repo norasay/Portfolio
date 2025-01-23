@@ -1,11 +1,11 @@
 # Nora Say - Information Technology Engineering Student
 ## Introduction
-Hello there! I'm Nora Say, currently in my second year of Engineering in Information Technology at KTH. This GitHub profile serves as a showcase of my journey, featuring various projects that I've worked on using diverse technologies.
+Hello there! I'm Nora Say, currently in my third year of Engineering in Information Technology at KTH. This GitHub profile serves as a showcase of my journey, featuring various projects that I've worked on using diverse technologies.
 
 ## Education
 ### Bachelor of Engineering in Information Technology
 **Institution:** KTH Royal Institute of Technology
-**Year:** 2nd Year
+**Year:** 3rd Year
 **Focus:** Software Development, Systems Engineering
 
 ## Skills I have gained proficiency in several programming languages and technologies through my academic projects and personal exploration:
